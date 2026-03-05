@@ -30,6 +30,3 @@ Thumbs.db
 # Debug / core dumps
 core
 *.core
-
-# Temporary files
-design-doc.md
